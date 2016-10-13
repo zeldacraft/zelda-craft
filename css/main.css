@@ -41,7 +41,7 @@ p.secondary {
 }
 
 ul.left_menu{
-	text-align:left;
+	list-style-position:outside;
 	list-style-type: none;
 }
 
