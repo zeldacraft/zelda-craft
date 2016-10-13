@@ -43,6 +43,7 @@ p.secondary {
 ul.left_menu{
 	list-style-position:outside;
 	list-style-type: none;
+	padding:0 0 0 0;
 }
 
 menu {
