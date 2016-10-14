@@ -99,3 +99,17 @@ menu a:hover, menu a:active {
 span {
     display: block;
 }
+
+ul.left_menu li a:visited, ul.left_menu li a:link {
+	color: rgb(155,155,155);
+	text-decoration: none;
+	display:inline-block;
+	padding: .1em .2em;
+}
+
+ul.left_menu li a:hover, ul.left_menu li a:active {
+	color: rgb(135,135,135);
+	text-decoration: none;
+	display:inline-block;
+	padding: .1em .2em;
+}
