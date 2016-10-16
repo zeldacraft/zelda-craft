@@ -29,7 +29,7 @@ p.secondary {
 	font-size: 1.5em;
 	background-image:url('/Realm-website/images/Big_Oak_Log.png');
 	margin:-4.2em 10em 5em 10em;
-	
+	border-radius: 1em;
 }
 
 .left_menu {
@@ -37,7 +37,7 @@ p.secondary {
 	background-image:url('/Realm-website/images/Birch_Log.png');
 	margin:1em 1em;
 	line-height:1.5em;
-	
+	border-radius: 1em;
 }
 
 ul.left_menu{
