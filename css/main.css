@@ -22,6 +22,7 @@ p.main {
 	font-size: 1.5em;
 	background-image:url('/Realm-website/images/Big_Oak_Log.png');
 	margin:.5em 10em 5em 10em;
+	border-radius: 1em;
 }
 
 p.secondary {
