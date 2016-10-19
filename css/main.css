@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background-image:url('/Realm-website/images/Background.png');
+	background-color:rgb(100,100,100);
 }
 
 h1 {
@@ -34,7 +34,7 @@ p.secondary {
 
 p.main_local {
 	font-size: 1.5em;
-	background-image:url('/Realm-website/images/Big_Oak_Log.png');
+	background-color:rgba(200,200,200,.6);
 	margin:.5em 10em 5em 10em;
 }
 
