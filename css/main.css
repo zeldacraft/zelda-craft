@@ -32,6 +32,18 @@ p.secondary {
 	border-radius: 1em;
 }
 
+p.main_local {
+	font-size: 1.5em;
+	background-image:url('/Realm-website/images/Big_Oak_Log.png');
+	margin:.5em 10em 5em 10em;
+}
+
+p.secondary_local {
+	font-size: 1.5em;
+	background-image:url('/Realm-website/images/Big_Oak_Log.png');
+	margin:-4.2em 10em 5em 10em;
+}
+
 .left_menu {
 	float: left;
 	background-image:url('/Realm-website/images/Birch_Log.png');
