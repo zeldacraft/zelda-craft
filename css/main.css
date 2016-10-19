@@ -44,7 +44,21 @@ p.main_local {
 	border-radius: 1em;
 }
 
+.right_menu {
+	float: left;
+	background-color:rgba(100,100,100,.1);
+	margin:1em 1em;
+	line-height:1.5em;
+	border-radius: 1em;
+}
+
 ul.left_menu{
+	list-style-position:outside;
+	list-style-type: none;
+	padding:10px 20px 5px 20px;
+}
+
+ul.right_menu{
 	list-style-position:outside;
 	list-style-type: none;
 	padding:10px 20px 5px 20px;
