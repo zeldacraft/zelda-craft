@@ -45,7 +45,7 @@ p.main_local {
 }
 
 .right_menu {
-	float: left;
+	float: right;
 	background-color:rgba(100,100,100,.1);
 	margin:1em 1em;
 	line-height:1.5em;
