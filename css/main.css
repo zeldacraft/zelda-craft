@@ -18,6 +18,10 @@ h1 {
 .blue { color:#0000FF}
 .green { color:#00FF00}
 
+h3 {
+	font-size:1.3em;
+}
+
 .announcement {
 	background-color:rgb(140,140,140);
 	margin-right:200px;
@@ -142,4 +146,3 @@ ul.left_menu li a:hover, ul.left_menu li a:active {
 	display:inline-block;
 	padding: .1em .2em;
 }
-
