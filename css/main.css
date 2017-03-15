@@ -14,8 +14,15 @@ h1 {
 	height:1em;
 }
 
-h2 {
-	font-size: 2em;
+.red { color: #FF0000; }
+.blue { color:#0000FF}
+.green { color:#00FF00}
+
+.announcement {
+	background-color:rgb(140,140,140);
+	margin-right:200px;
+	margin-left:200px;
+    text-align:center;
 }
 
 p.main {
@@ -28,6 +35,10 @@ p.secondary {
 	font-size: 1.5em;
 	background-color:rgba(140,140,140,.6);
 	margin:-4.2em 10em 5em 10em;
+}
+
+p1 {
+	font-size: 0.8em;
 }
 
 .left_menu {
@@ -131,3 +142,4 @@ ul.left_menu li a:hover, ul.left_menu li a:active {
 	display:inline-block;
 	padding: .1em .2em;
 }
+
